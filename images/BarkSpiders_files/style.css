@@ -1,0 +1,21 @@
+body{margin:0;
+       line-height: 1.4;
+        height: 100%;
+
+        padding: 0;}
+
+
+#carousel-example{margin:auto;width:100%;z-index:3;}
+
+
+#header{background-color: purple;position:fixed;margin-bottom:50px;}
+
+
+#navEx{background-color:purple;}
+ #brand {
+    color:pink;
+}
+ .navbar-right li:hover{background-color: #D49DFA;}
+ .navbar-default .navbar-nav li a:hover {color:white;}
+
+ 
